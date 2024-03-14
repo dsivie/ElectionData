@@ -1,6 +1,11 @@
 # ElectionData
 My final project in Graduate Data Mining class - STAT8480 - Predicts U.S. presidential voting behavior from demographic characteristics.
 
+Final Report Presentation Files: 
+
+  PowerPoint: The Demographics of Congressional Vote Preferences Phase 2.pptx
+  Word: David Sivieri - Project Final Report.docx
+
 How to run:
 
 Most of the scripts can be run in isolation.  I will briefly describe what each group does:
@@ -67,4 +72,7 @@ This file produces a plot of winning margin vs. accuracy:
 
 Note:  If you obtain a census API key, you could run every script from beginning to end.  If you don’t want to obtain an API key, there are intermediate RData files included that should allow you to run from scripts 
 “05a-District_Analysis.R” until the end in order.
+
+
+
 
