@@ -13,11 +13,13 @@ Most of the scripts can be run in isolation.  I will briefly describe what each 
 These files handle basic data cleaning and aggregation details for the election data:
 
 01-Prep_Election_Data.R
+
 02-Aggregate_Election_Data.R
 
 These files handle linking census data to election data:
 
 03-Census_Data_County.R
+
 04-Census_Data_District.R
 
 These scripts will not work unless you obtain an API key and enter it into both scripts. See link below:
@@ -27,6 +29,7 @@ https://api.census.gov/data/key_signup.html
 These files provide some plots and information about the structure and distribution of the input variables:
 
 05a-District_Analysis.R
+
 05b-County_Analysis.R
 
 These files handle all of the decision tree modeling and analysis:
