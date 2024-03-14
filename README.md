@@ -35,17 +35,25 @@ These files provide some plots and information about the structure and distribut
 These files handle all of the decision tree modeling and analysis:
 
 06a-Dtree-District.R
+
 06b-Dtree-County_Unbalanced.R
+
 06c-Dtree-County_Balanced.R
+
 06d-Dtree-County_Alt_Thresh.R
+
 06e-Dtree-Summary.R
 
 These files handle all of the logistic regression modeling and analysis:
 
 07a-Reg-District.R
+
 07b-Reg-County_Unbalanced.R
+
 07c-Reg-County_Balanced.R
+
 07d-Reg-County_Alt_Thresh.R
+
 07e-Reg-Summary.R
 
 These files handle all of the random forest modeling and analysis:
@@ -59,18 +67,23 @@ These files handle all of the random forest modeling and analysis:
 These files handle all of the ANN modeling and analysis:
 
 09a-ANN-District.R
+
 09b-ANN-County_Unbalanced.R
+
 09c-ANN-County_Balanced.R
+
 09d-ANN-Summary.R
 
 These files compare the stability of the decision tree and random forest models:
 
 10a-DTree-Analysis.R
+
 10b-RF-Analysis.R
 
 This file produces a plot of winning margin vs. accuracy:
 
 11-Winner Analysis.R
+
 
 
 Note:  If you obtain a census API key, you could run every script from beginning to end.  If you don’t want to obtain an API key, there are intermediate RData files included that should allow you to run from scripts 
