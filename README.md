@@ -11,10 +11,9 @@ How to run:
 Most of the scripts can be run in isolation.  I will briefly describe what each group does:
 
 These files handle basic data cleaning and aggregation details for the election data:
+   01-Prep_Election_Data.R
 
-**  01-Prep_Election_Data.R
-
-  02-Aggregate_Election_Data.R**
+  02-Aggregate_Election_Data.R
 
 These files handle linking census data to election data:
 
